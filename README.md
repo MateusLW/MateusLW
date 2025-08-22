@@ -2,7 +2,7 @@
 
 **`Graduando Sistemas de Informação`**
 
-Me chamo Mateus, tenho 19 anos e estou cursando Sistemas de Informação na UTFPR. Atualmente buscando trabalhar com a area de DataBase, mais especificamente PostgreSQL, porém aberto para mais oportunidades.
+Me chamo Mateus, tenho 19 anos e estou cursando Sistemas de Informação na UTFPR. Atualmente buscando trabalhar com a área de DataBase, mais especificamente PostgreSQL, porém aberto para mais oportunidades.
 
 
 ## 📞 Contato
