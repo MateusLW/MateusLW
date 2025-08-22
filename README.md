@@ -16,7 +16,7 @@ Me chamo Mateus, tenho 19 anos e estou cursando Sistemas de Informação na UTFP
 ---
 ### 👾Linguagens e Tecnologias 
 <p align= "left">
-    <img alt ="java" title ="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width = 35px/
+    <img alt ="java" title ="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width = 35px/>
     <img alt ="SQL" title ="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width = 35px />
     <img alt ="C#" title = "C#"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" width = 35px/>
     <img alt ="C++" title ="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width = 35px/>
