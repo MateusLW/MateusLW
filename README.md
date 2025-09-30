@@ -29,6 +29,6 @@ Me chamo Mateus, tenho 19 anos e estou cursando Sistemas de Informação na UTFP
 
 ### 📊 Estatíticas
 <p align="left">
-<img alt = "stats" title ="Stats" src="https://github-readme-stats.vercel.app/api?username=MateusLW&show_icons=true&theme=dark" height = 150/>
-<img alt = "top_langs" title="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusLW&theme=white&include_all_commits=true&layout=compact" height = 150/>
+<img alt = "stats" title ="Stats" src="https://github-readme-stats.vercel.app/api?username=MateusLW&show_icons=true&theme=tokyonight" height = 150/>
+<img alt = "top_langs" title="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusLW&theme=tokyonight&include_all_commits=true&layout=compact" height = 150/>
 </p>
