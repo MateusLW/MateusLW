@@ -24,11 +24,3 @@ Me chamo Mateus, tenho 19 anos e estou cursando Sistemas de Informação na UTFP
     <img alt ="CSS" title ="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width = 35px/>
     <img alt = "python" title ="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width = 35px/>
 </p>
-
----
-
-### 📊 Estatíticas
-<p align="left">
-<img alt = "stats" title ="Stats" src="https://github-readme-stats.vercel.app/api?username=MateusLW&show_icons=true&theme=tokyonight" height = 150/>
-<img alt = "top_langs" title="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusLW&theme=tokyonight&include_all_commits=true&layout=compact" height = 150/>
-</p>
